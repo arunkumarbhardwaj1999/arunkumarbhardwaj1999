@@ -10,11 +10,12 @@ I'm currently a Senior Software Engineer at **Orbantis Technologies**, and I als
 
 | Project | Notes | Stack |
 |---|---|---|
-| Document metadata pipeline | Batch-processes scanned PDFs with OpenAI to extract names, chapters and subjects, checks them against client lists and flags uncertain results for review. Over 146K records processed. | FastAPI, React, OpenAI, AWS |
+| [Document metadata pipeline](https://metapubs.historyit.ai/) | Batch-processes scanned PDFs with OpenAI to extract names, chapters and subjects, checks them against client lists and flags uncertain results for review. Over 146K records processed. | FastAPI, React, OpenAI, AWS |
 | [ONE WORLD 3D](https://oneworld3d.ai/) | Production platform for film and entertainment. Breaks a story into characters, locations and assets, with AI-generated images, voice and video, and MCP-based agents. | Django, React, Celery, OpenAI |
 | [Wildwood Carvings](https://www.wildwoodcarvings.com/) | E-commerce store. I built the tax calculation and tax exemption features, plus payments and wholesale pricing. | Django, Next.js |
 | [AgencyFlow](https://agencyflow-frontend-lac.vercel.app/) | CRM for small agencies: leads, deals, clients, GST invoicing and a shared calendar. ([frontend](https://github.com/arunkumarbhardwaj1999/agencyflow-frontend), [backend](https://github.com/arunkumarbhardwaj1999/agencyflow-backend)) | React, Django, PostgreSQL |
 | [Artroom by Artjazz](https://artroombyartjazz.com) | Online art store with a custom gallery, PayPal checkout and price-on-request items. | Django, React |
+| [PathStandard](https://pathstandard.in/) | Website for a pathology slide manufacturer. Product and compliance pages, slide traceability through QR codes, and a sample and demo request form with email delivery. ([code](https://github.com/arunkumarbhardwaj1999/pathstandard_laboratories)) | Next.js, TypeScript, Tailwind CSS |
 
 Most of my client work lives in private repositories. Happy to walk through any of it on a call.
 
