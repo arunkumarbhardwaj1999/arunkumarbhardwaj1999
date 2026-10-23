@@ -1,8 +1,10 @@
 # Arun Kumar
 
-Senior Software Engineer. FastAPI, Django, PostgreSQL, AWS.
+### Senior Software Engineer · APIs, System Integrations & AI
 
-I build APIs, data pipelines and system integrations, and add AI features to products where they're actually useful. Currently at **Orbantis Technologies**, and I also take freelance work through Upwork.
+I'm a software engineer with 5+ years of experience designing and building production systems for SaaS, e-commerce and enterprise clients. My work centres on reliable APIs, data pipelines and integrations between business systems, and on adding AI to products where it solves a real problem.
+
+I'm currently a Senior Software Engineer at **Orbantis Technologies**, and I also work with international clients on a freelance basis through Upwork.
 
 ## Selected projects
 
