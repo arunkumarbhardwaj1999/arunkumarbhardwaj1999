@@ -1,14 +1,8 @@
 # Arun Kumar
 
-Senior Software Engineer. I build APIs, data pipelines and system integrations, and add AI features to products where they're actually useful.
+Senior Software Engineer. FastAPI, Django, PostgreSQL, AWS.
 
-Currently a Senior Software Engineer at **Orbantis Technologies**, working on healthcare software for a US e-prescribing company. I also take freelance work through Upwork.
-
-## Current work
-
-**Batch patient management service** — FastAPI microservice that takes bulk patient files from healthcare providers, validates them against three provider formats, deduplicates patients and requests medication history from an external network. Kafka, S3, Elasticsearch and SFTP handle the file flow.
-
-**License management system migration** — replaced a legacy PHP / Oracle PL/SQL system with a Python service that syncs contract and license data between NetSuite and an e-prescribing platform. Snapshot-based change detection, NetSuite REST and SOAP APIs, scheduled jobs with alerting, and a reconciliation tool. 135 unit tests, 99% coverage.
+I build APIs, data pipelines and system integrations, and add AI features to products where they're actually useful. Currently at **Orbantis Technologies**, and I also take freelance work through Upwork.
 
 ## Selected projects
 
